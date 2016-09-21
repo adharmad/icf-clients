@@ -1,2 +1,1 @@
-# icf-clients
-icf-clients
+Sample client code for the Identity connector framework bundles.
